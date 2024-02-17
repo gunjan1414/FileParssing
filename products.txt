@@ -1,0 +1,4 @@
+ProductID:
+: Product Name
+Price: $19.99
+InStock: Yes
